@@ -26,8 +26,6 @@ Adventure Works is experiencing **stagnant sales** and **growing inventory issue
 - The **highest Order Quantity** record and the **most used Payment Method** were identified.
 - Improved alignment of products, markets, and strategies for **better business decisions**.
 
----
 
 4. Click **Commit changes** to save the README file.  
 
----
